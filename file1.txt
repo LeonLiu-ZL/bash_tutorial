@@ -1,0 +1,3 @@
+I am using keyboard to input text.
+Cat command reads my keyboard input, convert it into stdout which is instantly redirected to file1.txt.
+That is , untile I press CTRL+D
